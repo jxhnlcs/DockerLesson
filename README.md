@@ -4,7 +4,7 @@
 
 - No vídeo é ensinado a como criar um container para MySQL e por fim como criar um container node para outra pessoa poder acessar o sistema react apenas usando o node pelo container, sem precisar ter o node instalado em sua máquina.
 
-- Uma ferramente muito interessante para trabalhar em equipe
+- Uma ferramente muito interessante para trabalho em equipe
 
 # Como instalar o Docker
 
