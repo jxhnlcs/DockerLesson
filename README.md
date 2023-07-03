@@ -1,3 +1,11 @@
+# Introdução ao Docker para iniciantes
+
+- Introdução ao Docker vendo a video aula do canal [Manual do Dev](https://www.youtube.com/watch?v=01MR38eDXz8&ab_channel=ManualdoDev)
+
+- No vídeo é ensinado a como criar um container para MySQL e por fim como criar um container node para outra pessoa poder acessar o sistema react apenas usando o node pelo container, sem precisar ter o node instalado em sua máquina.
+
+- Uma ferramente muito interessante para trabalhar em equipe
+
 # Como instalar o Docker
 
 - Baixe o Docker neste link: https://www.docker.com/products/docker-desktop
